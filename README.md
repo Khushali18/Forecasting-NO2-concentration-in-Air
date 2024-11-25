@@ -16,13 +16,13 @@ The **Plan.docx** outlines the action plan for the project.
 ## Folder Structure
 
 Structure_Data_Pipeline<br>
- |
- |---Data
- |
- |---Models
- |     |
- |     |---VAR
- |     |
- |     |---XGBoost
- |
+ |<br>
+ |---Data<br>
+ |<br>
+ |---Models<br>
+ |     |<br>
+ |     |---VAR<br>
+ |     |<br>
+ |     |---XGBoost<br>
+ |<br>
  |---Preprocessing
