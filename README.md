@@ -15,7 +15,7 @@ The **Plan.docx** outlines the action plan for the project.
 
 ## Folder Structure
 
-Structure_Data_Pipeline
+Structure_Data_Pipeline<br>
  |
  |---Data
  |
